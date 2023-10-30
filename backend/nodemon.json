@@ -1,0 +1,9 @@
+{
+  "env": {
+    "mongourl": {
+      "env": {
+        "mongourl": "mongodb+srv://vikkuvikash79097:<Stradon07>@cluster0.zofopar.mongodb.net/"
+      }
+    }
+  }
+}
